@@ -1,0 +1,1 @@
+# prints-a-list-of-the-names-catalog-numbers-and-orbital-inclinations-of-all-active-geosynchronous-s
